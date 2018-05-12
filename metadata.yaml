@@ -1,0 +1,27 @@
+_repo: Memorie-del-Presbiterio--13-Scene-di-Provincia_13627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Praga, Emilio
+    birthdate: 1839
+    deathdate: 1875
+    gutenberg_agent_id: '5167'
+    url: http://www.gutenberg.org/2009/agents/5167
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13627'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian literature'
+- !lcc 'PQ'
+title: "Memorie del Presbiterio\r\nScene di Provincia"
+url: http://www.gutenberg.org/ebooks/13627
